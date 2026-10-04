@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "Agentic Commerce",
+  "repo": "ianwieds/awesome-agentic-commerce",
+  "tagline": "Protocols, payment rails, storefront integrations and tools that let AI agents discover, buy and pay.",
+  "scope": "It is about agents buying, selling or paying, not a general payments or e-commerce product.",
+  "accent": "F97316",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: agent bots queue on a path to a checkout terminal, each pays by dropping a coin into its slot, the display flashes a check and a receipt rises, then a box lifts off a storefront shelf and glides onto the agent, who rolls off with it."
 }

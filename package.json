@@ -1,8 +1,8 @@
 {
-  "name": "awesome-template",
+  "name": "awesome-agentic-commerce",
   "version": "1.0.0",
   "private": true,
-  "description": "A GitHub template for a curated awesome list, with checked pull requests.",
+  "description": "Protocols, payment rails, storefront integrations and tools that let AI agents discover, buy and pay.",
   "license": "CC0-1.0",
   "scripts": {
     "test": "node --test \"tests/*.test.js\"",
