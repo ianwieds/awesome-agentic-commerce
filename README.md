@@ -75,6 +75,7 @@ Agentic commerce is AI agents finding products, paying for services and checking
 - [Payman](https://paymanai.com/) - AI agents that run payments and transfers on a bank's existing rails, with controls.
 - [Skyfire](https://skyfire.xyz/) - Gives agents verified identity and payment credentials to pay sites and APIs.
 
+- [Money Reactor](https://money-reactor.makar52nn2016.workers.dev) - Live x402 pay-per-call API for agents on Base USDC: 18 micro-priced endpoints (crypto data, token safety, AI chat) from $0.001, no keys; remote MCP server, listed in the official MCP Registry.
 ## Shopping agents and storefronts
 
 - [Amazon Buy for Me](https://www.aboutamazon.com/news/retail/amazon-shopping-app-buy-for-me-brands) - Amazon app feature where an agent buys items from other brands' sites for the shopper.
