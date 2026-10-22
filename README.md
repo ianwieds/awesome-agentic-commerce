@@ -159,6 +159,7 @@ Agentic commerce is AI agents finding products, paying for services and checking
 
 ## Discovery and directories
 
+- [Agent Wallet Index](https://agentwalletindex.fyi) - Index of agent wallets and payment rails with source-linked facts, a REST API and an MCP server.
 - [Agentic Market](https://agentic.market/) - Directory of services agents can pay for over x402 without API keys.
 - [Coinbase x402 Bazaar](https://docs.cdp.coinbase.com/x402/bazaar) - Discovery layer that lists x402 services for agents to find and pay.
 - [UCP Checker](https://ucpchecker.com/) - Validator that checks a store's UCP profile and reports its status.
