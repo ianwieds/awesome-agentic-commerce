@@ -68,6 +68,7 @@ Agentic commerce is AI agents finding products, paying for services and checking
 - [ATXP](https://atxp.ai/) - Agent accounts with a wallet, email and pay-per-use tools.
 - [Catena](https://catena.com/) - Governance and banking platform for AI agents that hold and move money.
 - [Crossmint](https://www.crossmint.com/solutions/agentic-payments) - Wallets, virtual cards and payouts that let agents buy online and onchain.
+- [FluxA](https://fluxapay.xyz) - Agent wallets, virtual cards, AgentMarket and USDC settlement for AI agents.
 - [Kite](https://gokite.ai/) - Chain and identity layer built for agents to send and receive stablecoin payments.
 - [Locus](https://paywithlocus.com/) - One agent account for many paid APIs and data sources, billed per call.
 - [Natural](https://www.natural.co/) - Wallets, cards and payment processing for moving money between agents and people.
