@@ -202,10 +202,10 @@ Agentic commerce is AI agents finding products, paying for services and checking
 - [Awesome UCP](https://github.com/Upsonic/awesome-ucp) - Resources, tools and implementations for the Universal Commerce Protocol.
 - [Awesome x402](https://github.com/xpaysh/awesome-x402) - Resources for x402 payments, facilitators and paid APIs.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
