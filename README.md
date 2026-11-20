@@ -1,4 +1,4 @@
-<p align="center"><!-- awesome:hero --><img src=".github/assets/hero.gif" width="100%" alt="Animated isometric scene: agent bots queue on a path to a checkout terminal, each pays by dropping a coin into its slot, the display flashes a check and a receipt rises, then a box lifts off a storefront shelf and glides onto the agent, who rolls off with it."><!-- /awesome:hero --></p>
+﻿<p align="center"><!-- awesome:hero --><img src=".github/assets/hero.gif" width="100%" alt="Animated isometric scene: agent bots queue on a path to a checkout terminal, each pays by dropping a coin into its slot, the display flashes a check and a receipt rises, then a box lifts off a storefront shelf and glides onto the agent, who rolls off with it."><!-- /awesome:hero --></p>
 
 <!-- awesome:title --><h1 align="center">Awesome Agentic Commerce</h1><!-- /awesome:title -->
 
@@ -163,6 +163,7 @@ Agentic commerce is AI agents finding products, paying for services and checking
 - [Coinbase x402 Bazaar](https://docs.cdp.coinbase.com/x402/bazaar) - Discovery layer that lists x402 services for agents to find and pay.
 - [UCP Checker](https://ucpchecker.com/) - Validator that checks a store's UCP profile and reports its status.
 - [x402scan](https://github.com/Merit-Systems/x402scan) - Explorer for x402 transactions, sellers and paid resources.
+- [Chain-Hunter x402 Gateway](https://pfq-opencode-wr96rj6p4xwwh59v-8001.app.github.dev) - Live x402 v2 gateway with 9 services on Base USDC and Solana USDC: token risk analysis, Solana RPC health, on-chain token metadata, wallet portfolio snapshot, DeFi protocol TVL, pump.fun launch monitoring, MEV protection signals, cross-chain bridge status, memecoin rug detection. \.005 USDC per call, no API keys, no signup. [Discovery](https://pfq-opencode-wr96rj6p4xwwh59v-8001.app.github.dev/.well-known/x402.json) | [MCP](https://pfq-opencode-wr96rj6p4xwwh59v-8001.app.github.dev/mcp)
 
 ## Benchmarks and research
 
