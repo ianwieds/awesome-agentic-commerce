@@ -116,6 +116,7 @@ Agentic commerce is AI agents finding products, paying for services and checking
 
 - [a2a-x402-typescript](https://github.com/dabit3/a2a-x402-typescript) - TypeScript port of the A2A x402 extension for paid calls between agents.
 - [AgentCash Router](https://github.com/Merit-Systems/agentcash-router) - Server framework for building APIs that accept x402 and MPP payments.
+- [AgentTax](https://www.agenttax.io) - Sales and use tax API for agent transactions, paid per call over x402 or with an API key.
 - [Faremeter](https://github.com/faremeter/faremeter) - Plugin-based libraries and proxies that let agents pay over HTTP 402 on any chain.
 - [MCPay](https://github.com/microchipgnu/MCPay) - Open-source tools and registry for charging for MCP server tools with x402.
 - [mpp-rs](https://github.com/tempoxyz/mpp-rs) - Rust SDK for the Machine Payments Protocol.
